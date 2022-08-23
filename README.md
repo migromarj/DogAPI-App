@@ -1,8 +1,10 @@
 # DogAPI
 
+#### DogAPI is an Android application that integrates [Dog API](https://dog.ceo/dog-api/) to search for images of dogs according to their breed. 
+
 ## Running app
 
-#### DogAPI is a Android application. You can run it by cloning the project and opening it in a development environment like Android Studio.
+#### You can run it by cloning the project and opening it in a development environment like Android Studio.
 
 ## App images
 
